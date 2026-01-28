@@ -3,8 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello and warm welcome! Thank you for visiting me. 
+I'm Jijia, and this is my space to share interests, work and future ideas. 
+I'm currently a PhD student at Friedrich-Schiller Universität Jena, and working on machine learning for mental healthcare.
+In my spare time I enjoy good films, travelling and knitting, and I really wish to pick up tennis and bouldering this year!
+Feel free to reach out to me via [email](jxing3006@outlook.com).
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
