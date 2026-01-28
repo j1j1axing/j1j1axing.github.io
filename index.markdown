@@ -4,7 +4,6 @@
 # Apple Pie 🍎
 
 This is the pie I made every Sunday.
-
 Ingredients:
 - Apples
 - Sugar
