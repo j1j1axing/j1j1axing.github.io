@@ -3,16 +3,21 @@ layout: home
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-# Apple Pie 🍎
+# Education
+Friedrich-Schiller Universität Jena (2026 onwards)
 
-This is the pie I made every Sunday.
-Ingredients:
-- Apples
-- Sugar
-- Flour
-- Butter
+PhD Candidate
 
-Instructions:
-1. Mix
-2. Bake
-3. Enjoy
+Imperial College London (2020-2024)
+
+Masters in Science in Mathematics
+
+# Experiences
+Universitätsklinikum Tübingen (2025-2026)
+
+Research Assistant
+
+WatchHouse Spitalfields (2024-2025)
+
+Barista
+
